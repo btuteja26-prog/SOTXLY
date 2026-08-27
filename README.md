@@ -1,4 +1,4 @@
-STOXLY
+<p><b>STOXLY</b></p>
 <br>
 1. User Authentication System
    Secure Signup/Login using MySQL database
