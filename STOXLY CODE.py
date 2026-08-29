@@ -20,8 +20,8 @@ try:
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="spiderman",
-        database="SIH",
+        password="",
+        database="sih",
         port=3306
     )
     print("Database connected successfully.")
