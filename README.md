@@ -82,9 +82,9 @@ Update the following in your code to match your MySQL setup:
 ```python
 HOST = "localhost"
 USER = "root"
-PASSWORD = "bhavya"
-DATABASE = "CSProject"
-PORT = 3308
+PASSWORD = "your mysql pass"
+DATABASE = "your database name"
+PORT = 3306
 ```
 
 ### SQL Tables
